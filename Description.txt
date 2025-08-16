@@ -1,1 +1,4 @@
-
+In JavaAutomation folder ,
+      There will be the assignments related to the java or(/and) selenium which I did during the coaching in Testleaf organisation.
+In SeleniumAutomation folder,
+      There will be all the files related to selenium like how to launch the browser, locators, screenshots, dropdown, alerts which I learnt in Testleaf organisation.
