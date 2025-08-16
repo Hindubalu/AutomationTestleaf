@@ -1,1 +1,6 @@
-
+In the class assignment there will be three files/ assignments
+Week 2 day 5
+    Assignment 1 --> Facebook login
+    Assignment 2 --> Launch orangeHRM browser
+Week 4 day 2
+    Assignment --> Character Occurence
